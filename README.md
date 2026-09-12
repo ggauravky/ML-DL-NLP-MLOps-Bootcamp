@@ -27,15 +27,61 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=py,numpy,pandas,sklearn,tensorflow,jupyter,flask,docker,git,github,aws,azure" alt="Tech Stack" />
+  <!-- Core Data Science & Machine Learning -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44" height="44" alt="Python" title="Python" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="44" height="44" alt="NumPy" title="NumPy" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="44" height="44" alt="Pandas" title="Pandas" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="44" height="44" alt="Scikit-Learn" title="Scikit-Learn" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="44" height="44" alt="TensorFlow" title="TensorFlow" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="44" height="44" alt="PyTorch" title="PyTorch" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="44" height="44" alt="Jupyter" title="Jupyter Notebook" />
+  </a>
 
   <br /><br />
 
-  <img src="https://img.shields.io/badge/MLflow-017CEE?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white" alt="DVC" />
-  <img src="https://img.shields.io/badge/DagsHub-10141A?style=flat-square&logo=dagshub&logoColor=white" alt="DagsHub" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <!-- MLOps, Cloud & Deployment -->
+  <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/mlflow/017CEE" width="44" height="44" alt="MLflow" title="MLflow" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://dvc.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/dvc/945DD6" width="44" height="44" alt="DVC" title="DVC" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" title="Docker" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="44" height="44" alt="Streamlit" title="Streamlit" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" height="44" alt="Git" title="Git" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="44" height="44" alt="AWS" title="Amazon Web Services" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="44" height="44" alt="Azure" title="Microsoft Azure" />
+  </a>
+
+  <br /><br />
+
+  <!-- Frameworks & Deployment Badges -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/BentoML-000000?style=flat-square&logo=bentoml&logoColor=white" alt="BentoML" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Version_Control-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 
 </div>
 
